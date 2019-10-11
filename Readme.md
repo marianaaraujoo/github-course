@@ -8,6 +8,4 @@ Gostou do curso? Quer mais?
 
 <button>ADD<button>
 
-Alteração2
-
-alguma coisa
+Outros cursos em: [...]
