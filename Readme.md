@@ -6,6 +6,6 @@ Saiba mais em [willianjusten.com.br]
  
 Gostou do curso? Quer mais?
 
-<button><button>
+<button>ADD<button>
 
 Alteração2
